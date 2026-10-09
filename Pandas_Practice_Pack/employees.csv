@@ -1,0 +1,61 @@
+employee_id,name,department,role,city,age,salary,experience_years,performance_score,joining_date
+EMP001,Diya_1,Support,Support Associate,Pune,46,140000.0,10,1.0,2020-10-15
+EMP002,Rohan_2,Sales,Account Manager,Mumbai,48,52500.0,8,4.0,2020-10-20
+EMP003,Kunal_3,Engineering,QA Engineer,Pune,24,,17,1.0,2019-01-18
+EMP004,Anaya_4,Sales,Account Manager,Hyderabad,51,57500.0,12,1.0,2019-11-06
+EMP005,Aarav_5,Marketing,Content Specialist,Bengaluru,50,70000.0,13,5.0,2025-06-04
+EMP006,Ira_6,Support,Support Associate,Mumbai,39,57500.0,1,5.0,2026-04-02
+EMP007,Diya_7,Finance,Financial Analyst,Pune,24,117500.0,15,5.0,2023-12-16
+EMP008,Diya_8,Sales,Sales Executive,Mumbai,25,120000.0,2,2.0,2022-07-12
+EMP009,Manav_9,Engineering,QA Engineer,Mumbai,58,120000.0,1,,2018-12-02
+EMP010,Maya_10,Marketing,Content Specialist,Bengaluru,34,130000.0,22,3.0,2020-09-04
+EMP011,Om_11,HR,HR Associate,Bengaluru,50,75000.0,24,1.0,2018-02-08
+EMP012,Pooja_12,Marketing,SEO Analyst,Pune,55,57500.0,16,3.0,2019-06-27
+EMP013,Manav_13,HR,HR Associate,Mumbai,44,70000.0,5,4.0,2024-02-04
+EMP014,Nisha_14,Support,Support Associate,Chennai,40,130000.0,3,2.0,2020-12-19
+EMP015,Manav_15,Engineering,Data Analyst,Chennai,30,,9,5.0,2020-05-12
+EMP016,Aditya_16,Support,Support Associate,Bengaluru,53,102500.0,8,1.0,2019-01-14
+EMP017,Priya_17,Support,Team Lead,Pune,21,77500.0,24,2.0,2025-02-22
+EMP018,Anaya_18,HR,Recruiter,Chennai,48,112500.0,0,1.0,2018-11-05
+EMP019,Manav_19,Support,Support Associate,Chennai,23,157500.0,11,5.0,2024-03-13
+EMP020,Priya_20,Sales,Sales Executive,Pune,40,82500.0,25,1.0,2022-01-05
+EMP021,Maya_21,Sales,Sales Executive,Pune,43,147500.0,17,4.0,2024-12-17
+EMP022,Kabir_22,Support,Support Associate,Mumbai,32,90000.0,0,2.0,2026-04-05
+EMP023,Aditi_23,HR,Recruiter,Mumbai,38,50000.0,25,,2022-04-16
+EMP024,Riya_24,Engineering,Software Engineer,Mumbai,33,155000.0,14,3.0,2021-06-04
+EMP025,Gauri_25,Sales,Sales Executive,Mumbai,46,77500.0,8,1.0,2021-02-17
+EMP026,Arjun_26,HR,Recruiter,Chennai,42,27500.0,3,3.0,2020-01-02
+EMP027,Vivek_27,Finance,Accountant,Pune,48,80000.0,23,3.0,2022-11-23
+EMP028,Rahul_28,Finance,Accountant,Hyderabad,57,55000.0,8,1.0,2025-12-13
+EMP029,Aarav_29,Marketing,SEO Analyst,Bengaluru,48,35000.0,21,3.0,2024-12-27
+EMP030,Maya_30,HR,HR Associate,Bengaluru,53,72500.0,21,4.0,2021-08-29
+EMP031,Neel_31,Marketing,Content Specialist,Chennai,29,55000.0,13,4.0,2025-08-06
+EMP032,Manav_32,Support,Support Associate,Chennai,57,,12,5.0,2018-01-02
+EMP033,Nisha_33,HR,HR Associate,Hyderabad,58,120000.0,20,3.0,2023-03-20
+EMP034,Kunal_34,Marketing,SEO Analyst,Chennai,51,150000.0,25,2.0,2025-05-22
+EMP035,Nisha_35,Engineering,QA Engineer,Chennai,42,37500.0,24,2.0,2025-07-18
+EMP036,Gauri_36,HR,HR Associate,Mumbai,22,30000.0,7,4.0,2024-11-08
+EMP037,Kunal_37,Engineering,Software Engineer,Chennai,33,137500.0,22,4.0,2023-07-18
+EMP038,Gauri_38,Marketing,SEO Analyst,Pune,27,147500.0,13,2.0,2019-12-22
+EMP039,Rahul_39,Support,Team Lead,Pune,56,62500.0,3,4.0,2019-07-01
+EMP040,Maya_40,Marketing,Content Specialist,Hyderabad,53,92500.0,17,4.0,2019-10-14
+EMP041,Riya_41,Support,Team Lead,Hyderabad,37,145000.0,7,3.0,2023-11-06
+EMP042,Arjun_42,Marketing,SEO Analyst,Bengaluru,49,35000.0,22,3.0,2020-08-18
+EMP043,Aditya_43,HR,Recruiter,Chennai,26,45000.0,4,2.0,2022-04-18
+EMP044,Kabir_44,Support,Support Associate,Pune,47,90000.0,10,5.0,2023-03-24
+EMP045,Diya_45,Marketing,SEO Analyst,Hyderabad,45,147500.0,18,1.0,2024-06-16
+EMP046,Ira_46,Marketing,SEO Analyst,Bengaluru,40,145000.0,12,4.0,2024-01-14
+EMP047,Tara_47,Support,Support Associate,Hyderabad,35,67500.0,13,4.0,2018-04-29
+EMP048,Aditya_48,Marketing,Content Specialist,Mumbai,50,45000.0,19,5.0,2018-04-21
+EMP049,Dev_49,Marketing,SEO Analyst,Pune,48,45000.0,14,2.0,2018-07-25
+EMP050,Om_50,HR,Recruiter,Mumbai,50,75000.0,10,4.0,2021-02-13
+EMP051,Vivek_51,Marketing,SEO Analyst,Hyderabad,22,142500.0,17,1.0,2021-12-04
+EMP052,Arjun_52,Sales,Sales Executive,Pune,22,62500.0,6,1.0,2024-12-19
+EMP053,Gauri_53,Sales,Sales Executive,Hyderabad,28,115000.0,6,4.0,2025-11-05
+EMP054,Yash_54,HR,Recruiter,Mumbai,28,147500.0,5,3.0,2019-03-19
+EMP055,Aarav_55,Finance,Financial Analyst,Chennai,45,87500.0,22,2.0,2018-11-08
+EMP056,Neel_56,Finance,Accountant,Pune,40,160000.0,21,5.0,2019-05-11
+EMP057,Aditi_57,Finance,Accountant,Bengaluru,55,92500.0,21,3.0,2018-10-10
+EMP058,Arjun_58,Finance,Financial Analyst,Pune,47,155000.0,15,1.0,2022-11-11
+EMP059,Arjun_59,HR,Recruiter,Mumbai,48,52500.0,23,5.0,2025-04-18
+EMP060,Pooja_60,HR,Recruiter,Hyderabad,48,155000.0,23,5.0,2021-01-04

@@ -1,0 +1,251 @@
+order_id,order_date,customer_id,city,product,category,unit_price,quantity,discount_pct,payment_method,returned
+ORD0001,2025-05-23,CUST029,Mumbai,Notebook,Stationery,100,4,0.0,Net Banking,True
+ORD0002,2025-01-15,CUST032,Delhi,Mouse,Electronics,900,7,0.05,Card,False
+ORD0003,2025-06-24,CUST018,Hyderabad,Desk,Furniture,8000,6,0.05,Cash,True
+ORD0004,2025-05-04,CUST027,Bengaluru,Laptop,Electronics,55000,4,0.0,Card,False
+ORD0005,2025-02-17,CUST019,Mumbai,Monitor,Electronics,14000,8,0.0,Net Banking,False
+ORD0006,2025-10-11,CUST034,Delhi,Chair,Furniture,4500,6,0.1,Net Banking,True
+ORD0007,2025-08-21,CUST018,Delhi,Notebook,Stationery,100,6,0.2,Cash,False
+ORD0008,2025-03-03,CUST035,Chennai,Phone,Electronics,25000,4,0.05,Card,False
+ORD0009,2025-10-29,CUST034,Hyderabad,Desk,Furniture,8000,8,0.05,Cash,False
+ORD0010,2025-07-04,CUST012,Delhi,Desk,Furniture,8000,5,0.0,UPI,True
+ORD0011,2025-01-28,CUST036,Delhi,Headphones,Electronics,2500,5,0.0,Card,False
+ORD0012,2025-05-26,CUST031,Bengaluru,Phone,Electronics,25000,1,0.15,Net Banking,False
+ORD0013,2025-09-02,CUST008,,Headphones,Electronics,2500,1,0.05,Net Banking,False
+ORD0014,2025-03-18,CUST037,Delhi,Phone,Electronics,25000,1,0.0,UPI,False
+ORD0015,2025-11-02,CUST040,Mumbai,Phone,Electronics,25000,7,0.15,Net Banking,False
+ORD0016,2025-08-08,CUST020,Hyderabad,Monitor,Electronics,14000,5,0.15,UPI,True
+ORD0017,2025-04-19,CUST017,Chennai,Phone,Electronics,25000,4,0.2,UPI,False
+ORD0018,2025-02-08,CUST011,Pune,Desk,Furniture,8000,3,0.15,Net Banking,False
+ORD0019,2025-01-17,CUST015,Delhi,Mouse,Electronics,900,8,0.05,Cash,False
+ORD0020,2025-11-17,CUST038,Chennai,Phone,Electronics,25000,4,0.05,Card,False
+ORD0021,2025-03-18,CUST018,Mumbai,Phone,Electronics,25000,4,0.2,UPI,False
+ORD0022,2025-10-19,CUST019,Bengaluru,Headphones,Electronics,2500,5,0.15,UPI,False
+ORD0023,2025-09-14,CUST035,Bengaluru,Chair,Furniture,4500,7,0.05,Net Banking,False
+ORD0024,2025-06-15,CUST039,Delhi,Mouse,Electronics,900,1,0.1,UPI,False
+ORD0025,2025-05-18,CUST037,Pune,Desk,Furniture,8000,1,0.2,Card,False
+ORD0026,2025-04-03,CUST038,Bengaluru,Backpack,Accessories,1800,8,0.05,Net Banking,False
+ORD0027,2025-06-20,CUST021,Chennai,Monitor,Electronics,14000,6,0.1,UPI,False
+ORD0028,2025-09-11,CUST019,Chennai,Notebook,Stationery,100,7,0.2,Net Banking,True
+ORD0029,2025-06-11,CUST017,Delhi,Laptop,Electronics,55000,8,0.0,UPI,False
+ORD0030,2025-10-05,CUST030,Bengaluru,Backpack,Accessories,1800,1,0.2,UPI,False
+ORD0031,2025-09-13,CUST041,Bengaluru,Backpack,Accessories,1800,6,0.15,UPI,False
+ORD0032,2025-08-13,CUST045,Bengaluru,Chair,Furniture,4500,3,0.05,UPI,False
+ORD0033,2025-03-23,CUST020,Hyderabad,Mouse,Electronics,900,4,0.2,UPI,True
+ORD0034,2025-02-28,CUST030,Pune,Pen Pack,Stationery,80,2,0.0,Card,False
+ORD0035,2025-09-05,CUST031,Mumbai,Chair,Furniture,4500,5,0.1,Net Banking,True
+ORD0036,2025-11-03,CUST033,Chennai,Headphones,Electronics,2500,7,0.0,Card,False
+ORD0037,2025-09-17,CUST018,Pune,Chair,Furniture,4500,7,0.05,Cash,False
+ORD0038,2025-08-17,CUST035,Bengaluru,Mouse,Electronics,900,8,0.0,Cash,False
+ORD0039,2025-06-14,CUST013,Chennai,Backpack,Accessories,1800,7,0.1,Card,True
+ORD0040,2025-01-23,CUST021,Chennai,Pen Pack,Stationery,80,4,0.1,Net Banking,False
+ORD0041,2025-01-19,CUST009,Hyderabad,Pen Pack,Stationery,80,3,0.1,Cash,False
+ORD0042,2025-08-22,CUST001,Chennai,Monitor,Electronics,14000,2,0.15,Card,False
+ORD0043,2025-05-16,CUST022,Hyderabad,Headphones,Electronics,2500,2,0.1,Net Banking,False
+ORD0044,2025-11-17,CUST032,Hyderabad,Notebook,Stationery,100,7,0.05,UPI,True
+ORD0045,2025-12-17,CUST019,Mumbai,Phone,Electronics,25000,4,0.2,UPI,False
+ORD0046,2025-03-27,CUST045,Delhi,Phone,Electronics,25000,2,0.1,UPI,False
+ORD0047,2025-07-03,CUST024,Bengaluru,Notebook,Stationery,100,1,0.05,Card,False
+ORD0048,2025-12-16,CUST012,Mumbai,Backpack,Accessories,1800,7,0.15,Card,False
+ORD0049,2025-12-16,CUST016,Bengaluru,Mouse,Electronics,900,7,0.15,Card,False
+ORD0050,2025-05-11,CUST043,Pune,Monitor,Electronics,14000,5,0.1,Net Banking,False
+ORD0051,2025-08-15,CUST023,Hyderabad,Backpack,Accessories,1800,3,0.0,Cash,False
+ORD0052,2025-04-12,CUST025,Bengaluru,Chair,Furniture,4500,8,0.05,UPI,False
+ORD0053,2025-06-01,CUST045,Delhi,Pen Pack,Stationery,80,6,0.15,UPI,False
+ORD0054,2025-12-18,CUST004,Hyderabad,Chair,Furniture,4500,1,0.15,Net Banking,False
+ORD0055,2025-11-22,CUST013,Hyderabad,Desk,Furniture,8000,6,0.0,Cash,False
+ORD0056,2025-08-14,CUST003,Hyderabad,Phone,Electronics,25000,1,0.05,Cash,False
+ORD0057,2025-08-01,CUST012,Mumbai,Phone,Electronics,25000,5,0.05,Card,True
+ORD0058,2025-05-12,CUST031,Delhi,Notebook,Stationery,100,5,0.0,Cash,False
+ORD0059,2025-04-26,CUST044,Chennai,Monitor,Electronics,14000,2,0.0,Net Banking,True
+ORD0060,2025-01-08,CUST017,Hyderabad,Notebook,Stationery,100,2,0.1,UPI,False
+ORD0061,2025-07-15,CUST041,Delhi,Notebook,Stationery,100,5,0.15,UPI,False
+ORD0062,2025-10-15,CUST021,Hyderabad,Monitor,Electronics,14000,1,0.15,Card,False
+ORD0063,2025-07-29,CUST008,Mumbai,Monitor,Electronics,14000,5,0.2,UPI,False
+ORD0064,2025-02-19,CUST016,Hyderabad,Chair,Furniture,4500,8,0.0,Card,False
+ORD0065,2025-12-23,CUST035,Bengaluru,Monitor,Electronics,14000,6,0.2,Card,False
+ORD0066,2025-07-28,CUST018,Pune,Phone,Electronics,25000,8,0.15,Cash,False
+ORD0067,2025-07-05,CUST007,Chennai,Monitor,Electronics,14000,8,0.0,Cash,True
+ORD0068,2025-05-22,CUST013,Pune,Notebook,Stationery,100,1,0.1,Net Banking,False
+ORD0069,2025-06-20,CUST016,Mumbai,Desk,Furniture,8000,1,0.0,Card,False
+ORD0070,2025-04-21,CUST015,Delhi,Backpack,Accessories,1800,4,0.15,Card,True
+ORD0071,2025-03-08,CUST035,Delhi,Laptop,Electronics,55000,5,0.0,Card,False
+ORD0072,2025-07-03,CUST016,Hyderabad,Laptop,Electronics,55000,3,0.0,Cash,False
+ORD0073,2025-03-06,CUST027,Hyderabad,Headphones,Electronics,2500,5,0.0,UPI,False
+ORD0074,2025-09-20,CUST038,Pune,Monitor,Electronics,14000,8,0.05,Net Banking,True
+ORD0075,2025-12-04,CUST034,Delhi,Desk,Furniture,8000,1,0.2,Net Banking,False
+ORD0076,2025-08-07,CUST044,Pune,Laptop,Electronics,55000,8,0.1,Net Banking,False
+ORD0077,2025-11-08,CUST010,Pune,Phone,Electronics,25000,2,0.05,Card,False
+ORD0078,2025-11-02,CUST034,Delhi,Mouse,Electronics,900,6,0.1,Net Banking,True
+ORD0079,2025-12-26,CUST008,Chennai,Mouse,Electronics,900,7,0.0,Card,False
+ORD0080,2025-06-23,CUST030,Bengaluru,Monitor,Electronics,14000,4,0.1,Net Banking,False
+ORD0081,2025-12-07,CUST017,Delhi,Notebook,Stationery,100,7,0.05,Card,False
+ORD0082,2025-02-17,CUST028,Pune,Phone,Electronics,25000,2,0.0,Cash,False
+ORD0083,2025-10-15,CUST036,Delhi,Backpack,Accessories,1800,1,0.15,UPI,False
+ORD0084,2025-01-27,CUST019,Hyderabad,Notebook,Stationery,100,7,0.2,Cash,False
+ORD0085,2025-12-03,CUST031,Mumbai,Phone,Electronics,25000,4,0.0,UPI,False
+ORD0086,2025-05-23,CUST037,Mumbai,Backpack,Accessories,1800,6,0.0,Net Banking,True
+ORD0087,2025-12-03,CUST045,Delhi,Mouse,Electronics,900,1,0.15,UPI,False
+ORD0088,2025-06-29,CUST001,Mumbai,Chair,Furniture,4500,5,0.05,Card,True
+ORD0089,2025-11-21,CUST002,,Pen Pack,Stationery,80,2,0.0,Card,False
+ORD0090,2025-03-22,CUST024,Delhi,Pen Pack,Stationery,80,8,0.05,Cash,True
+ORD0091,2025-03-21,CUST011,Hyderabad,Mouse,Electronics,900,2,0.0,UPI,False
+ORD0092,2025-08-06,CUST032,Hyderabad,Chair,Furniture,4500,8,0.2,Net Banking,False
+ORD0093,2025-02-28,CUST023,Bengaluru,Chair,Furniture,4500,4,0.15,UPI,False
+ORD0094,2025-12-08,CUST020,Pune,Mouse,Electronics,900,8,0.15,Card,False
+ORD0095,2025-04-15,CUST020,Mumbai,Mouse,Electronics,900,1,0.0,Card,False
+ORD0096,2025-01-04,CUST032,Chennai,Chair,Furniture,4500,6,0.0,Net Banking,False
+ORD0097,2025-12-27,CUST015,Hyderabad,Headphones,Electronics,2500,7,0.15,Cash,False
+ORD0098,2025-01-10,CUST030,Pune,Pen Pack,Stationery,80,1,0.1,Cash,True
+ORD0099,2025-11-24,CUST027,Delhi,Pen Pack,Stationery,80,7,0.2,UPI,False
+ORD0100,2025-11-13,CUST030,Chennai,Laptop,Electronics,55000,6,0.0,Cash,False
+ORD0101,2025-08-12,CUST038,Bengaluru,Pen Pack,Stationery,80,2,0.0,UPI,False
+ORD0102,2025-06-20,CUST011,Pune,Chair,Furniture,4500,6,0.0,UPI,True
+ORD0103,2025-06-29,CUST042,Mumbai,Backpack,Accessories,1800,4,0.05,Card,False
+ORD0104,2025-03-30,CUST039,Mumbai,Headphones,Electronics,2500,5,0.0,UPI,False
+ORD0105,2025-10-24,CUST029,Chennai,Monitor,Electronics,14000,8,0.15,Cash,False
+ORD0106,2025-08-29,CUST029,Chennai,Headphones,Electronics,2500,8,0.0,Cash,False
+ORD0107,2025-09-17,CUST005,Delhi,Mouse,Electronics,900,1,0.05,Net Banking,False
+ORD0108,2025-05-27,CUST005,Chennai,Laptop,Electronics,55000,1,0.05,UPI,True
+ORD0109,2025-10-25,CUST036,Chennai,Mouse,Electronics,900,7,0.1,UPI,False
+ORD0110,2025-11-06,CUST031,Hyderabad,Mouse,Electronics,900,4,0.05,Card,False
+ORD0111,2025-02-13,CUST033,Chennai,Monitor,Electronics,14000,2,0.05,Card,False
+ORD0112,2025-09-26,CUST034,Hyderabad,Desk,Furniture,8000,8,0.1,Card,False
+ORD0113,2025-07-29,CUST022,Chennai,Notebook,Stationery,100,5,0.1,UPI,False
+ORD0114,2025-10-13,CUST044,Bengaluru,Phone,Electronics,25000,6,0.0,Cash,False
+ORD0115,2025-02-11,CUST038,Chennai,Mouse,Electronics,900,3,0.05,Card,False
+ORD0116,2025-11-01,CUST006,Delhi,Chair,Furniture,4500,7,0.0,Net Banking,False
+ORD0117,2025-12-10,CUST028,Hyderabad,Headphones,Electronics,2500,2,0.2,Cash,False
+ORD0118,2025-04-20,CUST022,Bengaluru,Notebook,Stationery,100,5,0.0,Card,False
+ORD0119,2025-06-01,CUST007,Hyderabad,Headphones,Electronics,2500,3,0.0,UPI,False
+ORD0120,2025-07-12,CUST010,Mumbai,Mouse,Electronics,900,3,0.15,Card,True
+ORD0121,2025-07-30,CUST024,Chennai,Headphones,Electronics,2500,8,0.0,Card,False
+ORD0122,2025-08-18,CUST015,Hyderabad,Mouse,Electronics,900,5,0.2,Card,False
+ORD0123,2025-12-14,CUST037,Bengaluru,Monitor,Electronics,14000,4,0.05,Net Banking,False
+ORD0124,2025-04-13,CUST039,Mumbai,Pen Pack,Stationery,80,7,0.0,Cash,False
+ORD0125,2025-02-22,CUST034,Pune,Monitor,Electronics,14000,6,0.15,Cash,False
+ORD0126,2025-09-20,CUST010,Bengaluru,Headphones,Electronics,2500,5,0.1,UPI,False
+ORD0127,2025-08-01,CUST004,Bengaluru,Monitor,Electronics,14000,6,0.0,Cash,False
+ORD0128,2025-04-25,CUST002,Delhi,Pen Pack,Stationery,80,2,0.05,UPI,False
+ORD0129,2025-05-27,CUST031,Chennai,Headphones,Electronics,2500,3,0.0,Card,False
+ORD0130,2025-01-10,CUST017,Mumbai,Monitor,Electronics,14000,1,0.0,Card,True
+ORD0131,2025-05-28,CUST016,Delhi,Mouse,Electronics,900,7,0.0,UPI,False
+ORD0132,2025-11-15,CUST030,Pune,Desk,Furniture,8000,7,0.2,UPI,False
+ORD0133,2025-09-21,CUST037,Mumbai,Mouse,Electronics,900,1,0.2,Card,False
+ORD0134,2025-06-30,CUST016,Hyderabad,Pen Pack,Stationery,80,1,0.15,Net Banking,False
+ORD0135,2025-09-27,CUST035,Hyderabad,Phone,Electronics,25000,6,0.0,UPI,False
+ORD0136,2025-07-18,CUST024,Delhi,Monitor,Electronics,14000,1,0.2,UPI,False
+ORD0137,2025-12-03,CUST041,Pune,Phone,Electronics,25000,6,0.0,Cash,False
+ORD0138,2025-06-23,CUST042,Mumbai,Laptop,Electronics,55000,6,0.15,Net Banking,False
+ORD0139,2025-08-23,CUST003,Delhi,Headphones,Electronics,2500,3,0.0,Card,False
+ORD0140,2025-06-08,CUST033,Bengaluru,Desk,Furniture,8000,1,0.05,Net Banking,False
+ORD0141,2025-07-02,CUST004,Chennai,Laptop,Electronics,55000,4,0.05,Cash,False
+ORD0142,2025-07-24,CUST029,Bengaluru,Phone,Electronics,25000,6,0.1,Cash,False
+ORD0143,2025-09-23,CUST018,Pune,Monitor,Electronics,14000,8,0.05,Net Banking,False
+ORD0144,2025-05-31,CUST021,Pune,Pen Pack,Stationery,80,3,0.15,UPI,False
+ORD0145,2025-11-05,CUST028,Mumbai,Chair,Furniture,4500,5,0.1,Net Banking,False
+ORD0146,2025-06-30,CUST040,Bengaluru,Monitor,Electronics,14000,1,0.2,Cash,False
+ORD0147,2025-09-20,CUST044,Mumbai,Phone,Electronics,25000,7,0.05,UPI,False
+ORD0148,2025-03-06,CUST005,Mumbai,Mouse,Electronics,900,8,0.0,Cash,False
+ORD0149,2025-03-20,CUST044,Bengaluru,Pen Pack,Stationery,80,1,0.15,Cash,False
+ORD0150,2025-03-12,CUST034,Delhi,Monitor,Electronics,14000,2,0.15,Net Banking,False
+ORD0151,2025-01-14,CUST012,Bengaluru,Chair,Furniture,4500,4,0.0,Net Banking,True
+ORD0152,2025-12-27,CUST029,Mumbai,Phone,Electronics,25000,5,0.05,Cash,False
+ORD0153,2025-02-07,CUST029,Mumbai,Desk,Furniture,8000,2,0.0,Net Banking,False
+ORD0154,2025-02-03,CUST036,Hyderabad,Notebook,Stationery,100,6,0.2,Cash,False
+ORD0155,2025-09-18,CUST015,Pune,Headphones,Electronics,2500,3,0.05,Card,False
+ORD0156,2025-07-04,CUST036,Hyderabad,Desk,Furniture,8000,8,0.0,Cash,False
+ORD0157,2025-02-14,CUST005,Delhi,Backpack,Accessories,1800,3,0.15,Net Banking,False
+ORD0158,2025-10-22,CUST005,Mumbai,Backpack,Accessories,1800,7,0.1,Cash,False
+ORD0159,2025-09-22,CUST023,Mumbai,Monitor,Electronics,14000,8,0.2,Card,False
+ORD0160,2025-09-23,CUST010,Delhi,Pen Pack,Stationery,80,1,0.0,Card,False
+ORD0161,2025-09-23,CUST019,Pune,Notebook,Stationery,100,4,0.05,Cash,False
+ORD0162,2025-11-17,CUST020,Hyderabad,Backpack,Accessories,1800,5,0.0,UPI,True
+ORD0163,2025-12-04,CUST040,Chennai,Headphones,Electronics,2500,3,0.0,Cash,True
+ORD0164,2025-01-24,CUST042,Hyderabad,Laptop,Electronics,55000,1,0.0,Cash,False
+ORD0165,2025-11-24,CUST002,Bengaluru,Mouse,Electronics,900,7,0.15,Cash,False
+ORD0166,2025-07-27,CUST020,Bengaluru,Monitor,Electronics,14000,4,0.2,UPI,False
+ORD0167,2025-09-05,CUST030,Mumbai,Headphones,Electronics,2500,8,0.1,Cash,True
+ORD0168,2025-06-13,CUST023,Bengaluru,Headphones,Electronics,2500,6,0.2,Card,False
+ORD0169,2025-05-04,CUST030,Pune,Backpack,Accessories,1800,2,0.05,Cash,False
+ORD0170,2025-01-26,CUST019,Bengaluru,Desk,Furniture,8000,3,0.0,Net Banking,False
+ORD0171,2025-06-10,CUST013,Mumbai,Headphones,Electronics,2500,6,0.15,Net Banking,True
+ORD0172,2025-09-12,CUST002,Pune,Monitor,Electronics,14000,8,0.05,Net Banking,True
+ORD0173,2025-10-26,CUST023,Pune,Monitor,Electronics,14000,4,0.0,UPI,False
+ORD0174,2025-10-02,CUST001,Pune,Monitor,Electronics,14000,8,0.05,Net Banking,False
+ORD0175,2025-07-07,CUST003,Bengaluru,Chair,Furniture,4500,6,0.1,UPI,True
+ORD0176,2025-10-11,CUST019,Pune,Backpack,Accessories,1800,4,0.05,Net Banking,True
+ORD0177,2025-12-15,CUST040,Pune,Monitor,Electronics,14000,5,0.15,Card,False
+ORD0178,2025-10-13,CUST024,Mumbai,Pen Pack,Stationery,80,6,0.05,Card,True
+ORD0179,2025-01-21,CUST003,Pune,Backpack,Accessories,1800,7,0.15,Card,False
+ORD0180,2025-11-07,CUST033,Mumbai,Monitor,Electronics,14000,8,0.0,Cash,True
+ORD0181,2025-11-12,CUST020,Hyderabad,Notebook,Stationery,100,3,0.1,Cash,True
+ORD0182,2025-10-16,CUST020,Bengaluru,Backpack,Accessories,1800,8,0.2,UPI,False
+ORD0183,2025-10-26,CUST020,Chennai,Notebook,Stationery,100,2,0.1,UPI,True
+ORD0184,2025-10-24,CUST037,Mumbai,Monitor,Electronics,14000,5,0.2,UPI,True
+ORD0185,2025-11-19,CUST040,Bengaluru,Monitor,Electronics,14000,3,0.15,Card,False
+ORD0186,2025-01-10,CUST029,Delhi,Laptop,Electronics,55000,2,0.0,Net Banking,False
+ORD0187,2025-09-14,CUST040,Bengaluru,Pen Pack,Stationery,80,4,0.1,UPI,False
+ORD0188,2025-06-16,CUST043,Bengaluru,Backpack,Accessories,1800,4,0.15,Net Banking,False
+ORD0189,2025-06-25,CUST035,Delhi,Headphones,Electronics,2500,8,0.15,Cash,True
+ORD0190,2025-05-23,CUST036,Delhi,Monitor,Electronics,14000,4,0.0,Card,False
+ORD0191,2025-12-27,CUST032,Delhi,Chair,Furniture,4500,4,0.2,Net Banking,False
+ORD0192,2025-03-04,CUST037,Chennai,Backpack,Accessories,1800,5,0.05,Net Banking,False
+ORD0193,2025-01-22,CUST019,Chennai,Notebook,Stationery,100,3,0.05,UPI,False
+ORD0194,2025-09-03,CUST014,Mumbai,Monitor,Electronics,14000,5,0.2,Cash,True
+ORD0195,2025-11-12,CUST038,Mumbai,Chair,Furniture,4500,3,0.0,Card,False
+ORD0196,2025-04-30,CUST004,Pune,Backpack,Accessories,1800,4,0.2,Net Banking,False
+ORD0197,2025-03-12,CUST001,Hyderabad,Monitor,Electronics,14000,2,0.2,Card,False
+ORD0198,2025-04-13,CUST019,Delhi,Monitor,Electronics,14000,8,0.2,Cash,False
+ORD0199,2025-01-20,CUST012,Bengaluru,Phone,Electronics,25000,4,0.15,Card,False
+ORD0200,2025-05-29,CUST003,Pune,Pen Pack,Stationery,80,8,0.0,Cash,True
+ORD0201,2025-05-26,CUST030,Chennai,Mouse,Electronics,900,2,0.05,Net Banking,False
+ORD0202,2025-04-09,CUST008,Delhi,Backpack,Accessories,1800,8,0.05,Card,False
+ORD0203,2025-06-22,CUST019,Hyderabad,Chair,Furniture,4500,3,0.0,Card,False
+ORD0204,2025-09-21,CUST021,Pune,Mouse,Electronics,900,7,0.1,Net Banking,False
+ORD0205,2025-06-15,CUST016,Pune,Headphones,Electronics,2500,3,0.1,Cash,False
+ORD0206,2025-06-18,CUST020,Hyderabad,Desk,Furniture,8000,8,0.05,UPI,False
+ORD0207,2025-12-08,CUST008,Bengaluru,Notebook,Stationery,100,4,0.0,Cash,False
+ORD0208,2025-03-02,CUST041,Delhi,Pen Pack,Stationery,80,5,0.2,Cash,True
+ORD0209,2025-09-02,CUST010,Bengaluru,Desk,Furniture,8000,4,0.0,Cash,False
+ORD0210,2025-12-07,CUST014,Mumbai,Backpack,Accessories,1800,8,0.15,UPI,True
+ORD0211,2025-10-16,CUST008,Pune,Monitor,Electronics,14000,6,0.0,Card,True
+ORD0212,2025-06-17,CUST034,Bengaluru,Backpack,Accessories,1800,3,0.0,UPI,False
+ORD0213,2025-09-19,CUST029,Pune,Mouse,Electronics,900,8,0.0,Net Banking,False
+ORD0214,2025-10-16,CUST004,Hyderabad,Backpack,Accessories,1800,7,0.1,Net Banking,False
+ORD0215,2025-01-02,CUST014,Hyderabad,Laptop,Electronics,55000,7,0.05,UPI,False
+ORD0216,2025-02-02,CUST035,Pune,Pen Pack,Stationery,80,6,0.2,UPI,False
+ORD0217,2025-04-03,CUST009,Chennai,Laptop,Electronics,55000,5,0.1,Net Banking,False
+ORD0218,2025-07-12,CUST006,Chennai,Pen Pack,Stationery,80,8,0.1,Card,False
+ORD0219,2025-07-21,CUST034,Mumbai,Phone,Electronics,25000,3,0.15,Card,False
+ORD0220,2025-12-11,CUST035,Bengaluru,Laptop,Electronics,55000,5,0.1,Net Banking,False
+ORD0221,2025-03-21,CUST018,Mumbai,Desk,Furniture,8000,8,0.05,UPI,False
+ORD0222,2025-04-16,CUST005,Pune,Pen Pack,Stationery,80,1,0.0,UPI,False
+ORD0223,2025-01-23,CUST026,Bengaluru,Mouse,Electronics,900,1,0.0,Card,True
+ORD0224,2025-09-15,CUST019,Mumbai,Desk,Furniture,8000,1,0.0,Cash,True
+ORD0225,2025-06-04,CUST010,Chennai,Mouse,Electronics,900,6,0.0,Card,False
+ORD0226,2025-10-13,CUST038,Chennai,Chair,Furniture,4500,5,0.0,Card,False
+ORD0227,2025-06-26,CUST042,Chennai,Backpack,Accessories,1800,8,0.0,Net Banking,True
+ORD0228,2025-03-18,CUST020,Bengaluru,Notebook,Stationery,100,7,0.1,Card,True
+ORD0229,2025-06-03,CUST010,Bengaluru,Monitor,Electronics,14000,4,0.0,UPI,True
+ORD0230,2025-09-29,CUST009,Bengaluru,Pen Pack,Stationery,80,7,0.15,Card,False
+ORD0231,2025-02-10,CUST029,Delhi,Desk,Furniture,8000,6,0.2,UPI,True
+ORD0232,2025-07-13,CUST044,Hyderabad,Desk,Furniture,8000,1,0.05,UPI,False
+ORD0233,2025-04-17,CUST022,Delhi,Desk,Furniture,8000,4,0.1,UPI,False
+ORD0234,2025-09-03,CUST016,Chennai,Desk,Furniture,8000,2,0.2,Card,False
+ORD0235,2025-07-14,CUST030,Hyderabad,Desk,Furniture,8000,6,0.05,Cash,False
+ORD0236,2025-09-12,CUST030,Pune,Chair,Furniture,4500,6,0.15,Net Banking,False
+ORD0237,2025-07-31,CUST003,Hyderabad,Desk,Furniture,8000,6,0.05,Card,False
+ORD0238,2025-10-27,CUST038,Chennai,Laptop,Electronics,55000,5,0.15,Net Banking,False
+ORD0239,2025-04-28,CUST025,Hyderabad,Headphones,Electronics,2500,4,0.05,Card,False
+ORD0240,2025-09-08,CUST042,Chennai,Backpack,Accessories,1800,6,0.05,Net Banking,False
+ORD0241,2025-03-13,CUST035,Bengaluru,Headphones,Electronics,2500,6,0.0,Card,True
+ORD0242,2025-12-09,CUST004,Pune,Laptop,Electronics,55000,1,0.0,Net Banking,False
+ORD0243,2025-03-19,CUST001,Mumbai,Desk,Furniture,8000,2,0.2,Net Banking,False
+ORD0244,2025-09-07,CUST002,Pune,Laptop,Electronics,55000,8,0.2,Net Banking,False
+ORD0245,2025-05-27,CUST002,Hyderabad,Laptop,Electronics,55000,5,0.15,Net Banking,False
+ORD0246,2025-03-18,CUST016,Mumbai,Phone,Electronics,25000,2,0.15,Cash,False
+ORD0247,2025-07-11,CUST026,Bengaluru,Chair,Furniture,4500,7,0.0,Card,False
+ORD0248,2025-11-29,CUST003,Pune,Chair,Furniture,4500,2,0.2,Net Banking,False
+ORD0249,2025-11-23,CUST001,Chennai,Pen Pack,Stationery,80,8,0.0,Card,False
+ORD0250,2025-06-19,CUST037,Pune,Monitor,Electronics,14000,7,0.2,UPI,False
